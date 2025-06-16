@@ -22,13 +22,6 @@ This Python project tracks real-time cryptocurrency prices and sends WhatsApp al
 
 ---
 
-## 📸 Screenshots
-
-| CLI Output Example | WhatsApp Alert Example |
-|--------------------|------------------------|
-| ![CLI Output](screenshots/cli_output.png) | ![WhatsApp Message](screenshots/whatsapp_alert.png) |
-
----
 
 ## ⚙️ How It Works
 
